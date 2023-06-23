@@ -3,6 +3,7 @@ Working with the Zillow Economics Dataset: https://www.kaggle.com/datasets/zillo
 
 # Project Description
 
-In our project we are a consulting group that will build and evaluate a machine learning model to determine whether an individual is a 'bad' or 'good' credit risk. A ‘good’ credit risk indicates the probability that the consumer will be financially beneficial for the credit card company. This entails evaluating if the consumer will use the card regularly, maintain a balance to incur interest charges, and will make regular and timely payments. A 'bad' credit risk indicates an inability to make regular and timely payments.  
+Our primary objective is to boost Tidal Bank's overall profit by expanding the customer base of TidalOne credit card holders. This will be achieved by increasing the number of approvals for high-quality customers. To accomplish this, JAR Consulting AI Division has conducted a thorough evaluation of various AI models to identify the most effective approach for achieving our goal.
 
-We will be using decision tree and random forest for the prediction but before that will be putting extra effort to identify the right features and clean the data to ensure that the results come back without noise.
+Through our expertise in AI-driven solutions, we will implement advanced credit assessment models that leverage cutting-edge algorithms and data analysis techniques. Our aim is to optimize the approval process, ensuring that quality customers are efficiently identified and granted TidalOne credit cards, resulting in a significant boost to Tidal Bank's profitability.
+
